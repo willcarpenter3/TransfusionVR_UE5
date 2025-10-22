@@ -72,6 +72,14 @@
 		{
 			"Name": "OnlineServicesNull",
 			"Enabled": true
+		},
+		{
+			"Name": "StateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
@@ -83,6 +91,7 @@
 		"WindowsNoEditor",
 		"Switch",
 		"XboxOne",
-		"XSX"
+		"XSX",
+		"Android"
 	]
 }
